@@ -105,6 +105,6 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogabriel152&show_icons=true&theme=dark&title_color=ffffff&text_color=20cf75&locale=en&layout=compact" alt ="pedrogabriel152" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogabriel152&show_icons=true&theme=dark&title_color=ffffff&text_color=20cf75&locale=pt-br&layout=compact" alt ="pedrogabriel152" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrogabriel152&show_icons=true&theme=dark&title_color=fffafa&text_color=21c470&bg_color=000000&locale=pt-br" alt="pedrogabriel152" /></p>
