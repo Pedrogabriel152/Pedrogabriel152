@@ -1,7 +1,25 @@
 <h1 align="center">Olá 👋, Eu sou Pedro Gabriel</h1>
 <h3 align="center">Aqui você encontra projetos usando tecnologias JavaScript e PHP com suas bibliotecas e frameworks</h3>
 
+
+- 🔭 No momento trabalho como desenvolvedor web **ReactJs, TypeScript, NodeJs, Laravel**
+
+- 🌱 Atualmente estou estudando **JavaScript, TypeScript Laravel, PHP, ReactJs**
+
+- 💬 Pergunte-me sobre **JavaScript, TypeScript, NodeJs, ReactJs, Laravel, PHP**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/Pedrogabriel152](https://github.com/Pedrogabriel152)
+
+- 📫 Entre em contato: **pedrpg5@gmail.com**
+
+- 📄 Mais informações sobe mim: [https://www.linkedin.com/in/pedro-gabriel-a38726223/](https://www.linkedin.com/in/pedro-gabriel-a38726223/)
+
 <h3 align=" left">Conecte-se comigo:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-gabriel-a38726223/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-gabriel-a38726223/" height="30" width="40" />
+    </a>
+</p>
 <p align="left">
 </p>
 
