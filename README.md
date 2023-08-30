@@ -4,7 +4,7 @@
 
 - 🔭 No momento trabalho como desenvolvedor web **ReactJs, TypeScript, NodeJs, Laravel**
 
-- 🌱 Atualmente estou estudando **JavaScript, TypeScript Laravel, PHP, ReactJs**
+- 🌱 Atualmente estou estudando **JavaScript, TypeScript Laravel, PHP, ReactJs, GraphQL**
 
 - 💬 Pergunte-me sobre **JavaScript, TypeScript, NodeJs, ReactJs, Laravel, PHP**
 
